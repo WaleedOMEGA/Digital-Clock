@@ -1,6 +1,7 @@
 body {
     background-color: #58b1e7;
 }
+
 #clock {
     color: #fff;
     font-size: 195px;
@@ -11,6 +12,7 @@ body {
     font-family: Helvetica, Arial;
     text-align: center;
 }
+
 #banner {
     color: #fefefe;
     font-size: 50px;
